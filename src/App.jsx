@@ -17,7 +17,7 @@ const App = () => {
           <div className='basis-1/2 m-9 '>
               <p className='tracking-[0.3em]'>PERFUME</p>
               <p className='lg:text-[4vw] min-[320px]:text-[9vw] font-bold leading-none mt-5'>Gabrielle Essence Eau De Parfum</p>
-              <p className='lg:text-[1.5vw] min-[320px]:text-[3vw] mt-10 text-left'>A floral, solar and voluptuous interpretation composed by Oliver Polge, Perfumer-Creator for the House of CHANEL</p>
+              <p className='lg:text-[1.5vw] min-[320px]:text-[3vw] mt-3 lg:mt-10 text-left'>A floral, solar and voluptuous interpretation composed by Oliver Polge, Perfumer-Creator for the House of CHANEL</p>
               <p className='text-[4vw] mt-10 text-5xl'>$149.99 <span className='text-sm line-through ml-6'>$169.99</span></p>
               
               <button className='bg-green-700 hover:bg-green-900 text-white font-bold py-2 px-4 rounded mt-10 w-full mb-10 flex justify-center items-center'><span className='mr-3'><IconCart/></span> Add to Cart</button>
